@@ -1,27 +1,28 @@
-h1 {
-  font-size: 50px;
+.subtitle {
+  font-family: "europa", sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+  word-break: break-word;
+  font-size: 1.25rem;
+
+  margin-top: 35px;
 }
 
+.title {
+  font-weight: 800;
+  color: #141c3a;
+  line-height: 1.125;
+  word-break: break-word;
 
-.picture {
-  background-image: url('../../../../assets/headerImg.jpg');
-  background-position: 0px -233px;;
-  background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-size: cover;
+  margin-top: 50px;
 }
 
-.site-blocks-cover.overlay:before {
-  position: absolute;
-  content: "";
-  left: 0;
-  bottom: 0;
-  right: 0;
-  top: 0;
-  background: rgba(0, 0, 0, 0.4);
+.imgNicolasProfil {
+  margin-top: 20px;
+  width: 210px;
 }
 
-.site-blocks-cover, .site-blocks-cover .row {
-  min-height: 600px;
-  height: calc(94vh);
+.imgIllustrationHeader {
+  width: 100%;
+  margin-top: 50px;
 }
