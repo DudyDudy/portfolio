@@ -1,0 +1,36 @@
+.subtitle {
+  font-family: "europa", sans-serif;
+  font-weight: 600;
+  line-height: 1.5;
+  word-break: break-word;
+  font-size: 22px;
+}
+
+.title {
+  font-weight: 800;
+  color: #fff;
+  line-height: 1.125;
+  word-break: break-word;
+}
+
+.section.is-primary {
+  background-color: #7510F7;
+  color: #fff;
+}
+
+.section {
+  display: block;
+  margin-top: 250px;
+  padding-top: 87px;
+  padding-bottom: 150px;
+}
+
+.cadre {
+  padding: 0.5rem 2rem;
+  margin-top: -9rem;
+  background-color: #141c3a;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.2), 0 0 0 1px #141c3a;
+  color: white;
+  border-radius: 10px;
+}
+
